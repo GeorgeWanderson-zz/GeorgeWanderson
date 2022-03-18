@@ -1,7 +1,7 @@
 ## Olá, meu nome é George Wanderson. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
 <div align="center">
-  <img height="150px" align="right" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" />
+  
   <div align="left" style="display: inline_block">
     <li>- 🔭 Atualmente estudo Desenvolvimento de Software Back End.</li>
     <li>- 🌱 Aprendendo .NET CORE & SQL SERVER</li>
