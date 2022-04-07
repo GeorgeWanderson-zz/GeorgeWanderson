@@ -13,8 +13,9 @@
 ---
 
 <div align="center">
-  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=GeorgeWanderson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
-  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeWanderson&layout=compact&langs_count=7&theme=dracula&title_color=2FC18C&bg_color=1A1D21"/>
+  <a href="https://github.com/alexandresjunior">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GeorgeWanderson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeWanderson&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ---
@@ -28,7 +29,6 @@
   <img align="center" alt="redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt="mysql" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   <img align="center" alt="mysql" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-
 </div>
 
 ---
